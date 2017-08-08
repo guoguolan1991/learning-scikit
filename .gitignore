@@ -1,3 +1,7 @@
 .idea
 comments.txt
 comments-bak.txt
+*.iml
+*/target
+*.pyc
+*/data
